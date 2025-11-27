@@ -30,5 +30,6 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 >
 ><img width="837" height="595" alt="image" src="https://github.com/user-attachments/assets/b62d3dae-b4e2-49ac-9219-129591dec505" />
 
+## Deliverables
 
-
+### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwYzRjZmMtYWNiZC00NTlkLWI3ZjMtZTVlNTI5MmMxNzgxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
