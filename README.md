@@ -10,7 +10,8 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 
 ### 1.
 
-> ### Modular target analysis comparator matrix - with dynamic targets and colour-coded classification for selected KPIs
+> ### Modular target analysis comparator matrix 
+> #### with dynamic targets and colour-coded classification for selected KPIs
 >
 > Colour switches for KPIs on the left & colour switches for vehicle types on the right
 >
@@ -24,7 +25,8 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 ### 2.
 
 >
-> ### Dynamic TopN Selector - Separately displays TopN categories and shows a cumulative calculation under the category 'Others'
+> ### Dynamic TopN Selector
+> #### Separately displays TopN categories and shows a cumulative calculation under the category 'Others'
 >
 ><img width="837" height="595" alt="image" src="https://github.com/user-attachments/assets/b62d3dae-b4e2-49ac-9219-129591dec505" />
 
