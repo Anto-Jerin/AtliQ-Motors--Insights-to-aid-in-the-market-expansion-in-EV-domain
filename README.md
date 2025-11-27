@@ -9,11 +9,11 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 ## Assets Created
 
 ### 1.
-
+>
 > ### Modular target analysis comparator matrix 
 > #### with dynamic targets and colour-coded classification for selected KPIs
 >
-> Colour switches for KPIs on the left & colour switches for vehicle types on the right
+> ###### *Colour switches for KPIs on the left & colour switches for vehicle types on the right*
 >
 > <img width="1241" height="578" alt="image" src="https://github.com/user-attachments/assets/749ef145-4715-493f-8d8f-2f48a7996c18" />
 > <img width="1244" height="574" alt="image" src="https://github.com/user-attachments/assets/3158955a-cfd1-4461-81c8-005d70157357" />
