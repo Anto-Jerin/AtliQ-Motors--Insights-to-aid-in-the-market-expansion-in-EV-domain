@@ -3,3 +3,4 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 
 ## Data Model
 <img width="1374" height="654" alt="image" src="https://github.com/user-attachments/assets/319fef64-5d6a-4a84-aa1e-148457c8669b" />
+### Assets Created
