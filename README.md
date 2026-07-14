@@ -21,15 +21,15 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 
 1. Analysis By Maker:
   
-  * 2/4 wheelers market share analysis by maker
-  * Key metrics by maker using parameterised target analysis matrix
-  * Top N makers by Sales Qty across FY
+    * 2/4 wheelers market share analysis by maker
+    * Key metrics by maker using parameterised target analysis matrix
+    * Top N makers by Sales Qty across FY
 
 2. Analysis By State:
   
-  * 2/4 wheelers market share analysis by state
-  * Key metrics by state using parameterised target analysis matrix
-  * Top N states by Sales Qty across FY
+    * 2/4 wheelers market share analysis by state
+    * Key metrics by state using parameterised target analysis matrix
+    * Top N states by Sales Qty across FY
 
 
 ## Data Model
