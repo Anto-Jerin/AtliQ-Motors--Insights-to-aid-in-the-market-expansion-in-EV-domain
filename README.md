@@ -34,7 +34,9 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 
 ## Data Model
 
-<img width="1374" height="654" alt="image" src="https://github.com/user-attachments/assets/319fef64-5d6a-4a84-aa1e-148457c8669b" />
+[//]: # (width="1374" height="654" )
+
+<img width="687" height="327" alt="image" src="https://github.com/user-attachments/assets/319fef64-5d6a-4a84-aa1e-148457c8669b" />
 
 ## Assets Created
 
@@ -45,12 +47,17 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 >
 > ###### *Colour switches for KPIs on the left & colour switches for vehicle types on the right*
 >
-> <img width="1241" height="578" alt="image" src="https://github.com/user-attachments/assets/749ef145-4715-493f-8d8f-2f48a7996c18" />
-> <img width="1244" height="574" alt="image" src="https://github.com/user-attachments/assets/3158955a-cfd1-4461-81c8-005d70157357" />
+> [//]: # (width="1241" height="578" )
+>
+> <img width="680" height="317" alt="image" src="https://github.com/user-attachments/assets/749ef145-4715-493f-8d8f-2f48a7996c18" />
+>
+> [//]: # (width="1244" height="574" )
+>
+> <img width="680" height="317" alt="image" src="https://github.com/user-attachments/assets/3158955a-cfd1-4461-81c8-005d70157357" />
 >
 > ### Target Selector
 >
-> <img width="204" height="214" alt="image" src="https://github.com/user-attachments/assets/3181d778-e5ab-4c32-a3d9-6e25d5304d12" />
+> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3181d778-e5ab-4c32-a3d9-6e25d5304d12" />
 
 ### 2.
 
@@ -58,5 +65,7 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 > ### Dynamic TopN Selector
 > #### Separately displays TopN categories and shows a cumulative calculation under the category 'Others'
 >
-><img width="837" height="595" alt="image" src="https://github.com/user-attachments/assets/b62d3dae-b4e2-49ac-9219-129591dec505" />
+>[//]: # (width="837" height="595" )
+>
+><img width="475" height="338" alt="image" src="https://github.com/user-attachments/assets/b62d3dae-b4e2-49ac-9219-129591dec505" />
 
