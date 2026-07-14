@@ -20,7 +20,10 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 ### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwYzRjZmMtYWNiZC00NTlkLWI3ZjMtZTVlNTI5MmMxNzgxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
 
 
-1\. [Analysis By State:](https://github.com/Anto-Jerin/AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain/blob/main/Reports/Analysis%20By%20State.pdf)
+1\. [Analysis By State:](https://github.com/Anto-Jerin/AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain/blob/main/Reports/Analysis%20By%20State.pdf) 
+
+<img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/06b517d0-f84a-4891-a99a-f6e43950407c" />
+
   
   * 2/4 wheelers market share analysis by state
   * Key metrics by state using parameterised target analysis matrix
@@ -28,7 +31,9 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 
 
 2\. [Analysis By Maker:](https://github.com/Anto-Jerin/AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain/blob/main/Reports/Analysis%20By%20Maker.pdf)
-  
+
+<img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/6f32bad0-68be-461f-8362-0c4ff8c77cee" />
+
   * 2/4 wheelers market share analysis by maker
   * Key metrics by maker using parameterised target analysis matrix
   * Top N makers by Sales Qty across FY
