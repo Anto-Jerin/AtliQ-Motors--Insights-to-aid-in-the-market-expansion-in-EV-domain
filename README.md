@@ -1,6 +1,18 @@
 ## AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain
 
+### Context
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%.
+
+### Business Problems
+The Chief for AtliQ Motors India wanted insights into
+  *  current market leaders by market share and penetration rates
+  *  States' performance by CAGR%
+  *  Interstate comparison of key metrics
+  *  Seasonal trends of vehicle purchases
+  *  10-year projection with current CAGR% trends
+
+Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain/blob/main/Buisness%20Requests.pdf) <- here
+
 
 ## Data Model
 
