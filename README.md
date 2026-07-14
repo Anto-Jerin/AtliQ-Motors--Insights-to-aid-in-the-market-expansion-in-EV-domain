@@ -14,6 +14,12 @@ The Chief for AtliQ Motors India wanted insights into
 Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-Motors--Insights-to-aid-in-the-market-expansion-in-EV-domain/blob/main/Buisness%20Requests.pdf) <- here
 
 
+
+## Deliverables
+
+### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwYzRjZmMtYWNiZC00NTlkLWI3ZjMtZTVlNTI5MmMxNzgxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
+
+
 ## Data Model
 
 <img width="1374" height="654" alt="image" src="https://github.com/user-attachments/assets/319fef64-5d6a-4a84-aa1e-148457c8669b" />
@@ -42,6 +48,3 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 >
 ><img width="837" height="595" alt="image" src="https://github.com/user-attachments/assets/b62d3dae-b4e2-49ac-9219-129591dec505" />
 
-## Deliverables
-
-### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwYzRjZmMtYWNiZC00NTlkLWI3ZjMtZTVlNTI5MmMxNzgxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
