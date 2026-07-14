@@ -19,17 +19,17 @@ Find the exact list of [Business requests](https://github.com/Anto-Jerin/AtliQ-M
 
 ### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmUwYzRjZmMtYWNiZC00NTlkLWI3ZjMtZTVlNTI5MmMxNzgxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
 
-1. Analysis By Maker:
+1\. Analysis By Maker:
   
-    * 2/4 wheelers market share analysis by maker
-    * Key metrics by maker using parameterised target analysis matrix
-    * Top N makers by Sales Qty across FY
+  * 2/4 wheelers market share analysis by maker
+  * Key metrics by maker using parameterised target analysis matrix
+  * Top N makers by Sales Qty across FY
 
-2. Analysis By State:
+2\. Analysis By State:
   
-    * 2/4 wheelers market share analysis by state
-    * Key metrics by state using parameterised target analysis matrix
-    * Top N states by Sales Qty across FY
+  * 2/4 wheelers market share analysis by state
+  * Key metrics by state using parameterised target analysis matrix
+  * Top N states by Sales Qty across FY
 
 
 ## Data Model
